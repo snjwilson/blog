@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Welcome to My Blog"
-date: 2026-01-11 10:00:00 +0000
+date: 2026-01-11
 ---
 
 This is my first article in this new daily writing project. I'm using GitHub Pages and Jekyll to maintain a simple, markdown-based blog.
