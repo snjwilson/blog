@@ -1,0 +1,22 @@
+# Site settings
+title: My Daily Articles
+description: A collection of my daily writing and thoughts
+author: Sanjay Wilson
+email: sanjaywilsonktm@gmail.com
+
+# Build settings
+theme: minima
+markdown: kramdown
+
+# Pagination
+paginate: 10
+paginate_path: "/page:num/"
+
+# Permalink structure
+permalink: /:year/:month/:day/:title/
+
+# Exclude files from build
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
